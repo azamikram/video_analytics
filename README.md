@@ -2,7 +2,7 @@
 
 This is a sample Video Analytics application designed for deployment on AWS Lambda. The goal is to deploy a small set of functions, also known as a serverless workload or serverless DAG, on AWS Lambda. The code is adopted from [Orion](https://github.com/icanforce/Orion-OSDI22?tab=readme-ov-file#getting-started) and the following figure shows the architecture of the application.
 
-![architecture of Video Analytics application](arch.pdf)
+![architecture of Video Analytics application](./arch.pdf)
 
 ## Setup and Execution
 

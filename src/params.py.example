@@ -1,0 +1,6 @@
+accessKeyId=""
+accessKey=""
+bucketName=""
+LambdaRoleARN=""
+StepRoleARN=""
+AccountID=""
